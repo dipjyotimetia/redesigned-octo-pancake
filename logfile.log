@@ -146,3 +146,637 @@ Session ID: c3b95f46-d6d2-44db-ad9d-51d65f7b6b9c
 2016-05-29 01:28:14,053 INFO  [Log] Test@123 is entered in Password text box 
 2016-05-29 01:28:14,100 INFO  [Log] Submit button is found on the Login page 
 2016-05-29 01:28:14,335 INFO  [Log] Click action is performed on Submit button 
+2016-07-03 17:01:52,405 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,405 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,405 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:01:52,405 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,405 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,436 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,436 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,436 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:01:52,436 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:01:52,436 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,864 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,864 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,864 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:07:19,864 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,864 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,896 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,896 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,896 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:07:19,896 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:07:19,896 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:09:15,644 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:09:15,659 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:09:15,659 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:09:15,659 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:09:15,659 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,758 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,758 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,758 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:10:07,758 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,758 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,789 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,789 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,789 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:10:07,789 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:07,789 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,514 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,514 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,514 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:10:50,514 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,514 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,530 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,530 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:10:50,530 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:10:50,530 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,924 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,924 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,924 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:11:38,924 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,924 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,956 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,956 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,956 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:11:38,956 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:11:38,956 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,163 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,163 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,163 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:14:30,163 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,163 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,710 INFO  [Log] Excel sheet opened 
+2016-07-03 17:14:30,710 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:14:30,772 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:14:30,788 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:14:30,913 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:14:30,929 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:14:30,929 INFO  [Log] X 
+2016-07-03 17:14:30,929 INFO  [Log] X 
+2016-07-03 17:14:30,929 INFO  [Log] X 
+2016-07-03 17:14:30,929 INFO  [Log] X 
+2016-07-03 17:14:30,944 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,944 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,944 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:14:30,944 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,944 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:14:30,991 INFO  [Log] Excel sheet opened 
+2016-07-03 17:14:30,991 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:14:30,991 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:14:31,007 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:14:31,038 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:14:31,038 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:14:31,038 INFO  [Log] X 
+2016-07-03 17:14:31,038 INFO  [Log] X 
+2016-07-03 17:14:31,038 INFO  [Log] X 
+2016-07-03 17:14:31,038 INFO  [Log] X 
+2016-07-03 17:15:19,794 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:19,794 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:19,794 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:15:19,794 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:19,794 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:20,373 INFO  [Log] Excel sheet opened 
+2016-07-03 17:15:20,373 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:15:20,435 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:15:20,451 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:15:20,591 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:15:20,607 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:15:20,607 INFO  [Log] X 
+2016-07-03 17:15:20,607 INFO  [Log] X 
+2016-07-03 17:15:20,607 INFO  [Log] X 
+2016-07-03 17:15:20,607 INFO  [Log] X 
+2016-07-03 17:15:20,623 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:20,623 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:20,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:15:20,623 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:20,623 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:15:20,670 INFO  [Log] Excel sheet opened 
+2016-07-03 17:15:20,670 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:15:20,670 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:15:20,685 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:15:20,716 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:15:20,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:15:20,732 INFO  [Log] X 
+2016-07-03 17:15:20,732 INFO  [Log] X 
+2016-07-03 17:15:20,732 INFO  [Log] X 
+2016-07-03 17:15:20,732 INFO  [Log] X 
+2016-07-03 17:16:01,489 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:01,489 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:01,489 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:16:01,489 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:01,489 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:01,973 INFO  [Log] Excel sheet opened 
+2016-07-03 17:16:01,973 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:16:02,036 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:16:02,036 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:16:02,161 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:16:02,176 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:16:02,176 INFO  [Log] X 
+2016-07-03 17:16:02,176 INFO  [Log] X 
+2016-07-03 17:16:02,176 INFO  [Log] X 
+2016-07-03 17:16:02,176 INFO  [Log] X 
+2016-07-03 17:16:02,192 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:02,192 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:02,192 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:16:02,192 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:02,192 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:02,239 INFO  [Log] Excel sheet opened 
+2016-07-03 17:16:02,239 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:16:02,239 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:16:02,254 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:16:02,286 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:16:02,286 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:16:02,286 INFO  [Log] X 
+2016-07-03 17:16:02,286 INFO  [Log] X 
+2016-07-03 17:16:02,286 INFO  [Log] X 
+2016-07-03 17:16:02,286 INFO  [Log] X 
+2016-07-03 17:16:55,307 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:55,307 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:55,307 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:16:55,307 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:55,307 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:55,808 INFO  [Log] Excel sheet opened 
+2016-07-03 17:16:55,808 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:16:55,870 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:16:55,870 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:16:56,011 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:16:56,011 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:16:56,011 INFO  [Log] X 
+2016-07-03 17:16:56,011 INFO  [Log] X 
+2016-07-03 17:16:56,011 INFO  [Log] X 
+2016-07-03 17:16:56,011 INFO  [Log] X 
+2016-07-03 17:16:56,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:56,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:56,026 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:16:56,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:56,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:16:56,073 INFO  [Log] Excel sheet opened 
+2016-07-03 17:16:56,073 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:16:56,073 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:16:56,089 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:16:56,120 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:16:56,120 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:16:56,120 INFO  [Log] X 
+2016-07-03 17:16:56,120 INFO  [Log] X 
+2016-07-03 17:16:56,120 INFO  [Log] X 
+2016-07-03 17:16:56,120 INFO  [Log] X 
+2016-07-03 17:22:47,592 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:22:47,592 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:22:47,592 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:22:47,592 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:22:47,592 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:22:48,093 INFO  [Log] Excel sheet opened 
+2016-07-03 17:22:48,093 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:23:35,181 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+�рии Ка�?пер�?кого\\\"","creator":null,"homepageURL":null},{"locales":["sv"],"name":"Kaspersky Protection","description":"Ditt skydd på internet med tillägg från Kaspersky Lab","creator":null,"homepageURL":null},{"locales":["zh-Hans"],"name":"�?�巴斯基�?护","description":"使用�?�巴斯基实验室的扩展功能对您的互�?�网的�?护。","creator":null,"homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0a1","maxVersion":"43.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true}
+1467546769804	DeferredSave.extensions.json	DEBUG	Save changes
+1467546769804	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1467546769804	addons.xpi-utils	DEBUG	Updating add-on states
+1467546769805	addons.xpi-utils	DEBUG	Writing add-ons list
+1467546769807	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1467546769808	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1467546769808	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1467546769809	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1467546769809	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1467546769810	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1467546769829	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1467546769829	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1467546769829	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1467546769829	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1467546769829	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1467546769830	addons.manager	DEBUG	Starting provider: GMPProvider
+1467546769837	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1467546769837	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1467546769837	addons.manager	DEBUG	Starting provider: PluginProvider
+1467546769837	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1467546769837	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1467546769838	addons.manager	DEBUG	Completed startup sequence
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.388) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.388) |[1][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.42454) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1467546771474	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1467546771474	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1467546771474	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1467546771795	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467546771795	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1467546771796	DeferredSave.extensions.json	DEBUG	Starting timer
+1467546771808	addons.repository	DEBUG	No addons.json found.
+1467546771809	DeferredSave.addons.json	DEBUG	Save changes
+1467546771811	DeferredSave.addons.json	DEBUG	Starting timer
+1467546771834	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1467546771834	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1467546771835	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1467546771839	DeferredSave.extensions.json	DEBUG	Starting write
+1467546771897	DeferredSave.addons.json	DEBUG	Starting write
+1467546771946	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467546771956	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:23:35,197 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:23:35,338 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:23:35,338 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:23:35,338 INFO  [Log] X 
+2016-07-03 17:23:35,338 INFO  [Log] X 
+2016-07-03 17:23:35,338 INFO  [Log] X 
+2016-07-03 17:23:35,338 INFO  [Log] X 
+2016-07-03 17:23:35,353 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:23:35,353 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:23:35,353 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:23:35,353 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:23:35,353 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:23:35,416 INFO  [Log] Excel sheet opened 
+2016-07-03 17:23:35,416 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:24:55,189 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:24:55,189 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:24:55,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:24:55,189 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:24:55,189 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:24:55,720 INFO  [Log] Excel sheet opened 
+2016-07-03 17:24:55,720 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:25:54,938 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:25:54,938 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:25:54,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:25:54,938 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:25:54,938 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:25:55,438 INFO  [Log] Excel sheet opened 
+2016-07-03 17:25:55,438 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:28:23,640 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:28:23,640 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:28:23,640 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:28:23,640 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:28:23,640 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:28:24,171 INFO  [Log] Excel sheet opened 
+2016-07-03 17:28:24,171 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:29:10,879 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+�и Ка�?пер�?кого\\\"","creator":null,"homepageURL":null},{"locales":["sv"],"name":"Kaspersky Protection","description":"Ditt skydd på internet med tillägg från Kaspersky Lab","creator":null,"homepageURL":null},{"locales":["zh-Hans"],"name":"�?�巴斯基�?护","description":"使用�?�巴斯基实验室的扩展功能对您的互�?�网的�?护。","creator":null,"homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0a1","maxVersion":"43.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true}
+1467547105693	DeferredSave.extensions.json	DEBUG	Save changes
+1467547105693	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1467547105693	addons.xpi-utils	DEBUG	Updating add-on states
+1467547105694	addons.xpi-utils	DEBUG	Writing add-ons list
+1467547105697	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1467547105697	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1467547105697	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1467547105698	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1467547105699	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1467547105700	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1467547105718	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1467547105718	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1467547105719	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1467547105719	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1467547105719	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1467547105719	addons.manager	DEBUG	Starting provider: GMPProvider
+1467547105725	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1467547105725	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1467547105725	addons.manager	DEBUG	Starting provider: PluginProvider
+1467547105726	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1467547105726	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1467547105726	addons.manager	DEBUG	Completed startup sequence
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=2.96638) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=2.96638) |[1][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=2.96638) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1467547107350	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1467547107350	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1467547107350	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1467547107621	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467547107621	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1467547107621	DeferredSave.extensions.json	DEBUG	Starting timer
+1467547107635	addons.repository	DEBUG	No addons.json found.
+1467547107635	DeferredSave.addons.json	DEBUG	Save changes
+1467547107637	DeferredSave.addons.json	DEBUG	Starting timer
+1467547107660	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1467547107660	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1467547107661	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1467547107665	DeferredSave.extensions.json	DEBUG	Starting write
+1467547107750	DeferredSave.addons.json	DEBUG	Starting write
+1467547107801	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467547107810	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:29:10,895 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:29:11,020 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:29:11,036 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:29:11,036 INFO  [Log] X 
+2016-07-03 17:29:11,036 INFO  [Log] X 
+2016-07-03 17:29:11,036 INFO  [Log] X 
+2016-07-03 17:29:11,036 INFO  [Log] X 
+2016-07-03 17:29:11,051 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:29:11,051 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:29:11,051 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:29:11,051 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:29:11,051 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:29:11,083 INFO  [Log] Excel sheet opened 
+2016-07-03 17:29:11,083 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:29:56,895 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+�и Ка�?пер�?кого\\\"","creator":null,"homepageURL":null},{"locales":["sv"],"name":"Kaspersky Protection","description":"Ditt skydd på internet med tillägg från Kaspersky Lab","creator":null,"homepageURL":null},{"locales":["zh-Hans"],"name":"�?�巴斯基�?护","description":"使用�?�巴斯基实验室的扩展功能对您的互�?�网的�?护。","creator":null,"homepageURL":null}],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"38.0a1","maxVersion":"43.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true}
+1467547151849	DeferredSave.extensions.json	DEBUG	Save changes
+1467547151849	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1467547151849	addons.xpi-utils	DEBUG	Updating add-on states
+1467547151850	addons.xpi-utils	DEBUG	Writing add-ons list
+1467547151853	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1467547151853	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1467547151853	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1467547151854	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1467547151855	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1467547151855	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1467547151873	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1467547151874	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1467547151874	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1467547151874	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1467547151874	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1467547151874	addons.manager	DEBUG	Starting provider: GMPProvider
+1467547151880	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1467547151881	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1467547151881	addons.manager	DEBUG	Starting provider: PluginProvider
+1467547151881	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1467547151881	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1467547151882	addons.manager	DEBUG	Completed startup sequence
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.27182) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.27182) |[1][GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU (t=3.31079) [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1467547153437	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1467547153437	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1467547153438	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1467547153665	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467547153665	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1467547153665	DeferredSave.extensions.json	DEBUG	Starting timer
+1467547153755	DeferredSave.extensions.json	DEBUG	Starting write
+1467547153773	addons.repository	DEBUG	No addons.json found.
+1467547153773	DeferredSave.addons.json	DEBUG	Save changes
+1467547153777	DeferredSave.addons.json	DEBUG	Starting timer
+1467547153812	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1467547153812	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1467547153813	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1467547153824	DeferredSave.extensions.json	DEBUG	Write succeeded
+1467547153837	DeferredSave.addons.json	DEBUG	Starting write
+1467547153847	DeferredSave.addons.json	DEBUG	Write succeeded
+
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: driver.version: FirefoxDriver 
+2016-07-03 17:29:56,895 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:29:56,942 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:29:56,942 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:29:56,942 INFO  [Log] X 
+2016-07-03 17:29:56,942 INFO  [Log] X 
+2016-07-03 17:29:56,942 INFO  [Log] X 
+2016-07-03 17:29:56,942 INFO  [Log] X 
+2016-07-03 17:35:58,655 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:58,655 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:58,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:35:58,655 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:58,655 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:59,155 INFO  [Log] Excel sheet opened 
+2016-07-03 17:35:59,155 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:35:59,202 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: C:\Eclipse\Researc\SeleniumFrameworkHybri\ChromeDriver\chromedriver.exe 
+2016-07-03 17:35:59,218 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:35:59,343 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:35:59,359 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:35:59,359 INFO  [Log] X 
+2016-07-03 17:35:59,359 INFO  [Log] X 
+2016-07-03 17:35:59,359 INFO  [Log] X 
+2016-07-03 17:35:59,359 INFO  [Log] X 
+2016-07-03 17:35:59,374 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:59,374 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:59,374 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:35:59,374 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:59,374 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:35:59,421 INFO  [Log] Excel sheet opened 
+2016-07-03 17:35:59,421 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:35:59,421 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: C:\Eclipse\Researc\SeleniumFrameworkHybri\ChromeDriver\chromedriver.exe 
+2016-07-03 17:35:59,421 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:35:59,468 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:35:59,468 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:35:59,468 INFO  [Log] X 
+2016-07-03 17:35:59,468 INFO  [Log] X 
+2016-07-03 17:35:59,468 INFO  [Log] X 
+2016-07-03 17:35:59,468 INFO  [Log] X 
+2016-07-03 17:37:09,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:09,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:09,621 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:37:09,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:09,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:10,110 INFO  [Log] Excel sheet opened 
+2016-07-03 17:37:10,110 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:37:10,157 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: C:\Eclipse\Researc\SeleniumFrameworkHybri\ChromeDriver\chromedriver.exe 
+2016-07-03 17:37:10,172 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:37:10,281 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:37:10,297 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:37:10,297 INFO  [Log] X 
+2016-07-03 17:37:10,297 INFO  [Log] X 
+2016-07-03 17:37:10,297 INFO  [Log] X 
+2016-07-03 17:37:10,297 INFO  [Log] X 
+2016-07-03 17:37:10,312 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:10,312 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:10,312 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:37:10,312 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:10,312 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:37:10,390 INFO  [Log] Excel sheet opened 
+2016-07-03 17:37:10,390 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:37:10,406 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The driver executable does not exist: C:\Eclipse\Researc\SeleniumFrameworkHybri\ChromeDriver\chromedriver.exe 
+2016-07-03 17:37:10,531 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:37:10,593 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:37:10,593 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:37:10,593 INFO  [Log] X 
+2016-07-03 17:37:10,593 INFO  [Log] X 
+2016-07-03 17:37:10,593 INFO  [Log] X 
+2016-07-03 17:37:10,593 INFO  [Log] X 
+2016-07-03 17:40:33,237 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:40:33,253 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:40:33,253 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:40:33,253 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:40:33,253 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:40:33,740 INFO  [Log] Excel sheet opened 
+2016-07-03 17:40:33,740 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:41:31,042 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 56.19 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:41:31,058 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:41:31,167 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:41:31,183 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:41:31,183 INFO  [Log] X 
+2016-07-03 17:41:31,183 INFO  [Log] X 
+2016-07-03 17:41:31,183 INFO  [Log] X 
+2016-07-03 17:41:31,183 INFO  [Log] X 
+2016-07-03 17:41:31,198 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:41:31,198 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:41:31,198 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:41:31,198 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:41:31,198 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:41:31,230 INFO  [Log] Excel sheet opened 
+2016-07-03 17:41:31,230 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:42:19,136 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:42:19,136 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:42:19,136 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:42:19,136 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:42:19,136 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:42:19,652 INFO  [Log] Excel sheet opened 
+2016-07-03 17:42:19,652 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:43:16,804 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 56.06 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:43:16,835 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:43:16,960 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:43:16,960 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:43:16,960 INFO  [Log] X 
+2016-07-03 17:43:16,960 INFO  [Log] X 
+2016-07-03 17:43:16,960 INFO  [Log] X 
+2016-07-03 17:43:16,960 INFO  [Log] X 
+2016-07-03 17:43:16,975 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:43:16,975 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:43:16,975 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:43:16,975 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:43:16,975 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:43:17,038 INFO  [Log] Excel sheet opened 
+2016-07-03 17:43:17,038 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:44:13,453 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55.77 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:44:13,453 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:44:13,484 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:44:13,500 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:44:13,500 INFO  [Log] X 
+2016-07-03 17:44:13,500 INFO  [Log] X 
+2016-07-03 17:44:13,500 INFO  [Log] X 
+2016-07-03 17:44:13,500 INFO  [Log] X 
+2016-07-03 17:48:22,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:48:22,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:48:22,621 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:48:22,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:48:22,621 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:48:23,121 INFO  [Log] Excel sheet opened 
+2016-07-03 17:48:23,121 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:49:20,237 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 56.02 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:49:20,253 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:49:20,378 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:49:20,378 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:49:20,378 INFO  [Log] X 
+2016-07-03 17:49:20,378 INFO  [Log] X 
+2016-07-03 17:49:20,378 INFO  [Log] X 
+2016-07-03 17:49:20,378 INFO  [Log] X 
+2016-07-03 17:49:20,393 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:49:20,393 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:49:20,393 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:49:20,393 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:49:20,393 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:49:20,440 INFO  [Log] Excel sheet opened 
+2016-07-03 17:49:20,440 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:50:16,869 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55.79 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:50:16,869 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:50:16,900 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:50:16,900 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:50:16,900 INFO  [Log] X 
+2016-07-03 17:50:16,900 INFO  [Log] X 
+2016-07-03 17:50:16,900 INFO  [Log] X 
+2016-07-03 17:50:16,900 INFO  [Log] X 
+2016-07-03 17:57:41,747 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:57:41,747 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:57:41,747 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:57:41,747 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:57:41,747 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:57:42,294 INFO  [Log] Excel sheet opened 
+2016-07-03 17:57:42,294 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:58:40,106 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 56.27 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:58:40,137 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:58:40,262 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:58:40,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:58:40,262 INFO  [Log] X 
+2016-07-03 17:58:40,262 INFO  [Log] X 
+2016-07-03 17:58:40,262 INFO  [Log] X 
+2016-07-03 17:58:40,262 INFO  [Log] X 
+2016-07-03 17:58:40,294 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:58:40,294 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:58:40,294 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 17:58:40,294 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:58:40,294 INFO  [Log] **************************************************************************************** 
+2016-07-03 17:58:40,325 INFO  [Log] Excel sheet opened 
+2016-07-03 17:58:40,325 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 17:59:26,811 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 45.85 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Dipjyoti-PC', ip: '192.168.31.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver 
+2016-07-03 17:59:26,811 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 17:59:26,858 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 17:59:26,874 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 17:59:26,874 INFO  [Log] X 
+2016-07-03 17:59:26,874 INFO  [Log] X 
+2016-07-03 17:59:26,874 INFO  [Log] X 
+2016-07-03 17:59:26,874 INFO  [Log] X 
+2016-07-03 18:07:16,207 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:16,223 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:16,223 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 18:07:16,223 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:16,223 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:16,894 INFO  [Log] Excel sheet opened 
+2016-07-03 18:07:16,894 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 18:07:24,586 INFO  [Log] New driver instantiated 
+2016-07-03 18:07:24,623 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-03 18:07:31,356 INFO  [Log] Web application launched successfully 
+2016-07-03 18:07:31,745 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 18:07:31,963 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 18:07:32,010 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 18:07:32,010 INFO  [Log] X 
+2016-07-03 18:07:32,010 INFO  [Log] X 
+2016-07-03 18:07:32,010 INFO  [Log] X 
+2016-07-03 18:07:32,010 INFO  [Log] X 
+2016-07-03 18:07:32,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:32,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:32,026 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-07-03 18:07:32,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:32,026 INFO  [Log] **************************************************************************************** 
+2016-07-03 18:07:32,073 INFO  [Log] Excel sheet opened 
+2016-07-03 18:07:32,073 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-07-03 18:07:34,035 INFO  [Log] New driver instantiated 
+2016-07-03 18:07:34,035 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-07-03 18:08:02,843 INFO  [Log] Web application launched successfully 
+2016-07-03 18:08:02,845 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-07-03 18:08:02,882 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-07-03 18:08:02,882 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-07-03 18:08:02,882 INFO  [Log] X 
+2016-07-03 18:08:02,882 INFO  [Log] X 
+2016-07-03 18:08:02,882 INFO  [Log] X 
+2016-07-03 18:08:02,882 INFO  [Log] X 

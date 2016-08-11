@@ -4,7 +4,7 @@ public class Constant {
 	    public static final String URL = "http://store.demoqa.com/";
 	    public static final String Username = "testuser_1";
 	    public static final String Password ="Test@123";
-		public static final String Path_TestData = "C://Research//Eclipse//SeleniumFrameworkHybrid//Input//";
+		public static final String Path_TestData = "C://Eclipse//Research//SeleniumFrameworkHybrid//Input//";
 		public static final String File_TestData = "TestData.xlsx";
 		
 		//Test Data Sheet Columns
@@ -22,5 +22,5 @@ public class Constant {
 		public static final int Col_Phone = 11;
 		public static final int Col_Email = 12;
 		public static final int Col_Result = 13;
-		public static final String Path_ScreenShot = "C://Research//Eclipse//SeleniumFrameworkHybrid//Screenshot//";
+		public static final String Path_ScreenShot = "C://Eclipse//Research//SeleniumFrameworkHybrid//Screenshot//";
 	}
